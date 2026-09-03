@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./ChatGPT Image Sep 3, 2026, 12_00_36 PM.png" alt="Hello world">
+<img src="./banner.png" alt="Hello world">
 
 <br/>
 
