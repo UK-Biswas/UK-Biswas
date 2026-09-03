@@ -1,4 +1,7 @@
-https://github.com/UK-Biswas/UK-Biswas/blob/596144b8b4fec07b85ca1e4106bb832d4a073478/ChatGPT%20Image%20Sep%203%2C%202026%2C%2012_00_36%20PM.png
+<!--- banner --->
+<img src="./ChatGPT Image Sep 3, 2026, 12_00_36 PM.png" alt="Hello world">
+
+<br/>
 
 
 <h1 align="center">Hi 👋, I'm Uzzwal Kumar Biswas</h1>
