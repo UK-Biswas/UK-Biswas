@@ -1,3 +1,6 @@
+https://github.com/UK-Biswas/UK-Biswas/blob/596144b8b4fec07b85ca1e4106bb832d4a073478/ChatGPT%20Image%20Sep%203%2C%202026%2C%2012_00_36%20PM.png
+
+
 <h1 align="center">Hi 👋, I'm Uzzwal Kumar Biswas</h1>
 <h3 align="center">A passionate developer currently learning Full-Stack Web Development and building my skills as a MERN Stack Developer.</h3>
 
